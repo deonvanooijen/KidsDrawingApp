@@ -18,7 +18,10 @@ The Kids Drawing App was created during an Udemy course by Denis Panjuta.
   
 * Kotlin
 * Permissions
+* Importing Image
 * Coroutines
+* Undo Button
+* Share Feature
  
 * ViewGroup
   - ConstraintLayout
