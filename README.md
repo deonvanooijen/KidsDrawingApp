@@ -1,4 +1,4 @@
-# KidsDrawingApp
+# Kids Drawing App
  
 The Kids Drawing App was created during an Udemy course by Denis Panjuta.
 
